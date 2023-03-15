@@ -6,7 +6,7 @@ import codecs
 
 #######################################################################
 ### WEBB - 2023 - LRC EN GRAMMAR PROJECT                            ###
-### This cript allows a user to select a folder containing text     ###
+### This script allows a user to select a folder containing text     ###
 ### files. It then goes through each file in the folder, and for    ###
 ### each file it tokenizes the text into sentences and then into    ###
 ### words. The script then uses the Natural Language Toolkit (nltk) ###
