@@ -18,11 +18,6 @@ import codecs
 #######################################################################
 
 
-
-##webb: This is a Python script that allows a user to select a folder containing text files. It then goes through each file in the folder, and for each file it
-##tokenizes the text into sentences and then into words. The script then uses the Natural Language Toolkit (nltk) to tag each word with its corresponding part-of-speech (POS) tag. The output is printed to the console as well as saved to a file in the selected folder.
-#<!----------------!>
-
 #WARNING: Double clicking seems to not work,
 # so open the file in IDLE and run the module that way.
 
